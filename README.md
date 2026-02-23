@@ -9,7 +9,7 @@
 ### 💻 Full-Stack Developer • 🎓 Software Engineering Student • 🇱🇰 Sri Lanka
 
 <p>
-  <a href="https://www.linkedin.com/in/m-f-m-mukshith/" target="_blank">
+  <a href="https://www.linkedin.com/in/m-f-m-mukshith/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Mukshith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedmukshidh35@gmail.com">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=triggerdotdev&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -111,33 +111,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedmuqsith&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmuqsith&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mohamedmuqsith&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com?user=mohamedmuqsith&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (Optional)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmuqsith&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmuqsith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -157,7 +142,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/m-f-m-mukshith/" target="_blank">
+<a href="https://www.linkedin.com/in/m-f-m-mukshith/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mohamedmukshidh35@gmail.com">
