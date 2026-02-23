@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Mohamed Mukshith
+# Hey there 👋 I'm M.F.M Mukshith
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;MERN+%2B+Next.js+Developer;UI%2FUX+Focused+Builder;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Software+Engineering+Student;Next.js+%2B+React+Developer;UI%2FUX+Focused+Builder;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -27,9 +27,9 @@
 
 - 🎓 Software Engineering student (Kingston University Top-Up)
 - 💻 Full-stack developer focused on modern web & mobile apps
-- 🎨 I enjoy building clean UI/UX and real-world systems
+- 🎨 I enjoy building clean UI/UX and practical real-world projects
 - 📱 Interested in both web apps and React Native mobile apps
-- 🌱 Always learning and improving step by step
+- 🌱 Learning every day and improving step by step
 
 ---
 
@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -110,24 +111,16 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmuqsith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedmuqsith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmuqsith&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedmuqsith&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmuqsith&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mohamedmuqsith&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mohamedmuqsith&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -136,19 +129,27 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmuqsith&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmuqsith&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmuqsith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building scalable full-stack apps with **Next.js + Node.js + Express**
-- 📱 Mobile app development using **React Native + Expo + NativeWind**
-- 🗄️ Working with **MongoDB / MySQL / PostgreSQL**
-- 🔐 Integrations with **Clerk, Firebase, Cloudinary, Sentry**
-- 🤖 Using **Google Gemini API** in practical projects
-- 🎨 UI/UX design workflow with **Figma + Tailwind CSS**
+- 🚀 Building full-stack apps with **Next.js + Node.js + Express**
+- 📱 Mobile apps with **React Native + Expo + NativeWind**
+- 🗄️ Databases: **MongoDB / MySQL / PostgreSQL**
+- 🔐 Integrations: **Clerk, Firebase, Cloudinary, Sentry**
+- 🤖 AI integrations using **Google Gemini API**
+- 🎨 UI/UX workflow using **Figma + Tailwind CSS**
 
 ---
 
